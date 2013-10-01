@@ -1,0 +1,5 @@
+This is fun problem where we need to compute shortest path for a knight ( http://en.wikipedia.org/wiki/Knight_(chess) ) 
+from a given starting point to the bottom right grid of the chess board.
+Lets assume that this is not an ordinary '8x8' chessboard. Instead the user can specify the value of n for a 'nxn' chessboard.
+Print the shortest path from given starting point to the bottom right point. 
+There are certain starting points which should be marked as point of no return. Throw an exception to the user for all such points.
