@@ -1,0 +1,1 @@
+This is a sample program to sort a list of numbers (unsorted) into 3 buckets - negative, zeroes and positive numbers. The numbers in the respective buckets need not be sorted.
