@@ -1,0 +1,2 @@
+This is simple java map which is sorted based on values. I intend to print the elements in the map (sorted by values). Java Map provides API to sort the keys in the map, but to sort by values is not straightfoward. I once had the need to print the elements sorted by values and thats when I wrote this sample code and thought of pushing this to git-repo so that anybody can reuse it.
+This is standard procedure (hack if you will!) to print the elements sorted by value.
